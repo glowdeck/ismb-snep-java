@@ -9,3 +9,5 @@ In this wiki page, the test environment will be presented together with the logi
 = Details =
 
 Test Environment:
+
+http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid.jpg
