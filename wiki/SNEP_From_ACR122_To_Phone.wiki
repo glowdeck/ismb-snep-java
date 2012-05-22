@@ -17,7 +17,7 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
 
 - Download and install the Android app available in the download section.
 
-source : http://ismb-snep-java.googlecode.com/files/SnepReaderToPhoneSource.zip
+source: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhoneSource.zip
 
 or
 
@@ -27,7 +27,7 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 
 - Download the library source code available in the download section.
 
-http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-LIBRARY%20FromReaderToPhone_source.zip
+source: http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-LIBRARY%20FromReaderToPhone_source.zip
 
 
 
