@@ -15,8 +15,13 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid.jpg
 
 *Requirements*
 
-1) Download and install the Android app available in the download section.
+- Download and install the Android app available in the download section.
 
-2) Download the library source code available in the download section.
+- Download the library source code available in the download section.
 
 *Steps*
+
+*1) Execute the app installed on the Android device (ISMB-SNEP)*
+
+... then wait until you'll see the following message:
+
