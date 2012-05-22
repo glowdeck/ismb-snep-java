@@ -86,6 +86,7 @@ http://ismb-snep-java.googlecode.com/files/DataReceivedAndroid_site.jpg
 *5) That's all* 
 
 http://ismb-snep-java.googlecode.com/files/50px-Done.png
+
  
 With this example you have used the ISMB-SNEP-LIBRARY to send to the Android device the string: 
 
