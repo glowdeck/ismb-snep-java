@@ -29,6 +29,8 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 
 http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-LIBRARY%20FromReaderToPhone_source.zip
 
+
+
 *Steps*
 
 *1) Execute the app installed on the Android device (ISMB-SNEP)*
