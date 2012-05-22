@@ -27,7 +27,8 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
 
 http://ismb-snep-java.googlecode.com/files/AndroidStartingSnepApp_site.jpg
 
-*2) Execute the java code (SenderToPhone) contained in the archive 
+*2) Execute the java code (SenderToPhone ) contained in the archive 
+
 ... then wait until in the console appears the following messages:
 
 {{{
