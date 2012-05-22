@@ -1,0 +1,11 @@
+#summary SNEP protocol implementation: communication flow from ACR-122 to Phone.
+
+= Introduction =
+
+In this wiki page, the test environment will be presented together with the logical steps necessary to test the SNEP (Simple NDEF Push Protocol) from the NFC reader (ACR-122) to the phone (Android Galaxy Nexus).
+
+
+
+= Details =
+
+Test Environment:
