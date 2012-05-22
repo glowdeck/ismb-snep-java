@@ -10,7 +10,7 @@ In this wiki page, the test environment will be presented together with the logi
 
 *Test Environment* 
 
-http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid.jpg
+http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
 
 
 *Requirements*
@@ -24,4 +24,3 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid.jpg
 *1) Execute the app installed on the Android device (ISMB-SNEP)*
 
 ... then wait until you'll see the following message:
-
