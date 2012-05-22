@@ -10,7 +10,7 @@ In this wiki page, the test environment will be presented together with the logi
 
 *Test Environment* 
 
-http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
+http://ismb-snep-java.googlecode.com/files/AndroidStartingSnepApp_site.jpg
 
 
 *Requirements*
