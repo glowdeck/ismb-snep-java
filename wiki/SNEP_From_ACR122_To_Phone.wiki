@@ -26,3 +26,16 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
 ... then wait until you'll see the following message:
 
 http://ismb-snep-java.googlecode.com/files/AndroidStartingSnepApp_site.jpg
+
+*2) Execute the java code (SenderToPhone) contained in the archive 
+... then wait until in the console appears the following messages:
+
+{{{
+Get factory
+Get terminals
+Terminal name: ACS ACR122U 00 00
+card: PC/SC card in ACS ACR122U 00 00, protocol T=0, state OK
+Protocol:T=0
+Called Procedure to Send data .. INITIATOR MODE
+[DEBUG] {sending   [23 bytes]} 0xFF 0x00 0x00 0x00 0x12 0xD4 0x56 0x01 0x02 0x04 0x46 0x66 0x6D 0x01 0x01 0x10 0x03 0x02 0x00 0x01 0x04 0x01 0x96 
+}}}
