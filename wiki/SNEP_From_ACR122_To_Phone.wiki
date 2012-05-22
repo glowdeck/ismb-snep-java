@@ -14,6 +14,7 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid.jpg
 
 
 *Requirements*
+
 1) Download and install the Android app available in the download section.
 
 2) Download the library source code available in the download section.
