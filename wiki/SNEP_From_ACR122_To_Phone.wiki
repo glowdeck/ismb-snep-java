@@ -81,3 +81,15 @@ Finished
 *4b) And on the Android device, instead, the message sent will be displayed*
 
 http://ismb-snep-java.googlecode.com/files/DataReceivedAndroid_site.jpg
+
+
+*5) That's all* 
+ 
+With this example you have sent to the Android device the string: 
+
+*Beam received from ISMB SNEP LIBRARY:
+
+good luck!*
+
+
+*Please consider this first release of the application as a Proof of Concept and not as a fully defined and bug free application. Obviously, it's not yet STABLE.*
