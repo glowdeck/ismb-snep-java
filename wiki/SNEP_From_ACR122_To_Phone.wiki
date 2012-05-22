@@ -97,3 +97,7 @@ good luck!
 
 
 *Please consider this first release of the application as a Proof of Concept and not as a fully defined and bug free application. Obviously, it's not yet STABLE.*
+
+
+
+If you're interested in contributing to build a stable library, please contact me at lotito@ismb.it.
