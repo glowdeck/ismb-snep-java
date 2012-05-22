@@ -76,3 +76,5 @@ Finished
 }}}
 
 *4b) And on the Android device, instead, the message sent will be displayed*
+
+http://ismb-snep-java.googlecode.com/files/DataReceivedAndroid_site.jpg
