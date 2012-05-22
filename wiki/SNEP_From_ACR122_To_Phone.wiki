@@ -24,3 +24,5 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
 *1) Execute the app installed on the Android device (ISMB-SNEP)*
 
 ... then wait until you'll see the following message:
+
+http://ismb-snep-java.googlecode.com/files/AndroidStartingApp_site.jpg
