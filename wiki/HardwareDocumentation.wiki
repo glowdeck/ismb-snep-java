@@ -1,5 +1,5 @@
 #summary Describes where to find documents on the reader, chipset and the APDU commands they use
-#labels Phase-Implementation
+#labels Phase-Implementation,Featured
 
 = Hardware and APDU Documentation =
 
