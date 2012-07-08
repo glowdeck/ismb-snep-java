@@ -25,7 +25,6 @@ Other commands are forwarded to the PN532 chipset, and are specific to the chips
 = PN532 =
 The overall operation of the NFC Controller and its APDU are documented in the PN532 API documents in the Download section.
 
-There I have uploaded the following two documents. The User Manual should cover most needs:
-  * [http://code.google.com/p/ismb-snep-java/downloads/detail?name=NFC_PN532_141520_spec.pdf NFC_PN532_141520_spec.pdf]
-  * [http://code.google.com/p/ismb-snep-java/downloads/detail?name=PN532C106_Application Note_v1.2.pdf PN532C106_Application Note_v1.2.pdf]
-
+There I have uploaded the following two documents. The User Manual should cover most needs. The application note is more detailed and hardware oriented for people designing in the chipset but does also cover the APDU somewhat, although it references the User Manual.
+  * [http://code.google.com/p/ismb-snep-java/downloads/detail?name=NFC_PN532_141520_spec.pdf NFC_PN532_141520_spec.pdf (User Manual)]
+  * [http://code.google.com/p/ismb-snep-java/downloads/detail?name=PN532C106_Application Note_v1.2.pdf PN532C106_Application Note_v1.2.pdf (Application Note)]
