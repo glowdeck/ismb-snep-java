@@ -8,8 +8,8 @@ At the moment the library only works with the ACR132U USB Reader/Writer from ACS
 See the [http://code.google.com/p/ismb-snep-java/downloads/list Downloads] section for documents on the reader and the chipset it uses.
 
 I have uploaded two (very similar) versions of the ACR132U API document:
-  * [http://code.google.com/p/ismb-snep-java/downloads/API_ACR1322.pdf API_ACR1322.pdf]
-  * [http://code.google.com/p/ismb-snep-java/downloads/API_ACR122-SAM_33.pdf API_ACR122-SAM_33.pdf]
+  * [http://code.google.com/p/ismb-snep-java/downloads/detail?name=API_ACR122.pdf API_ACR1322.pdf]
+  * [http://code.google.com/p/ismb-snep-java/downloads/detail?name=API_ACR122-SAM_33.pdf API_ACR122-SAM_33.pdf]
 
 = ACR1322U =
 This USB reader is well supported by host operating systems. Windows, Linux and Mac OS X all come bundled with the PC/SC (PC Smart Card) daemon that connects to the reader in the background using a CCID driver that also comes bundled. 
