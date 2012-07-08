@@ -1,4 +1,6 @@
 #labels Phase-Implementation
+# Describes where to find documents on the reader, chipset and the APDU commands they use
+
 = Hardware and APDU Documentation =
 
 If you want to understand in more details the commands this library sends to the NFC Controller chip, or contribute to the library, you will probably need to refer to some of these documents that describe how the controller and the underlying chipset works.
