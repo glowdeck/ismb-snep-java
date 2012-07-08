@@ -1,0 +1,22 @@
+#labels Phase-Implementation
+= Hardware and APDU Documentation =
+
+If you want to understand in more details the commands this library sends to the NFC Controller chip, or contribute to the library, you will probably need to refer to some of these documents that describe how the controller and the underlying chipset works.
+
+At the moment the library only works with the AC132U USB Reader/Writer from ACS.
+
+See the [http://code.google.com/p/ismb-snep-java/downloads/list Downloads] section for documents on the reader and the chipset it uses.
+
+= ACR1322U =
+This USB reader is well supported by host operating systems. Windows, Linux and Mac OS X all come bundled with the PC/SC (PC Smart Card) daemon that connects to the reader in the background using a CCID driver that also comes bundled. 
+
+Hence you shouldn't have to install anything extra to start any special process to get this library talking to your reader/writer.
+
+This reader/writer uses the PN532 NFC Controller chip from NXP.
+
+This library sends commands (APDU) to the reader, some of which are destined for the reader itself and it's own functionality (e.g. control the state of the LEDs, read it's ID or firmware version etc). These commands are documented in the Reader API document.
+
+Other commands are forwarded to the PN532 chipset, and are specific to the chipset used, not the reader/writer. 
+
+= PN532 =
+The overall operation of the NFC Controller and its APDU are documented in the PN532 API documents in the Download section.
