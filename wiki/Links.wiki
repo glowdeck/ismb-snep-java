@@ -1,0 +1,48 @@
+#summary Useful Links.
+#labels link
+
+
+= Introduction =
+
+Links about NDEF PUSH PROTOCOL, LLCP, ACR122, Controller APDU
+
+= Details =
+
+Working in Progress
+
+
+*Simple NDEF Exchange Protocol (SNEP)
+
+
+http://www.nfc-forum.org/specs/spec_list/
+Technical specification of SNEP
+
+*ACS ACR122 NFC Reader API specification:*
+
+
+http://acs.com.hk/drivers/eng/API_ACR122U.pdf
+
+
+*PN532 transmission module for contactless communication at 13.56 MHz used in ACR122:*
+
+
+http://www.nxp.com/documents/user_manual/141520.pdf
+This document contains APDU used in java code
+
+
+*PN532 application note:*
+http://www.adafruit.com/datasheets/PN532C106_Application%20Note_v1.2.pdf
+
+
+*LLCP specification (Logical Link Control Protocol):*
+
+
+http://www.nfc-forum.org/specs/spec_list/
+Technical specification 
+
+
+*NDEF specification (NFC Data Exchange Format (NDEF)):*
+
+
+http://www.nfc-forum.org/specs/spec_list/
+Technical specification
