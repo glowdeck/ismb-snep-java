@@ -113,4 +113,4 @@ good luck!
 
 
 
-If you're interested in contributing to build a stable library, please contact me at lotito@ismb.it.
+If you're interested in contributing to build a stable library, please contact me at *lotito@ismb.it*.
