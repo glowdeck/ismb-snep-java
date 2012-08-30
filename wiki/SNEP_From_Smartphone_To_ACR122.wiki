@@ -14,3 +14,27 @@ See which SampleProjects are included in the source code..
 *Test Environment*
 
 http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroidSite_2.jpg
+
+
+
+*Requirements*
+
+- Java and an IDE (e.g. Eclipse)
+
+
+- ACS ACR12U2 PC/SC Driver,
+available at http://www.acs.com.hk/index.php?pid=product&id=ACR122U
+
+
+- if you're using Eclipse, modify settings in order to use javax.smartcard
+as shown in the page http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
+
+
+- Download and install the Android app available in the download section.
+
+
+source: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Client_SRC.zip
+
+or
+
+installer: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Client_APK.zip
