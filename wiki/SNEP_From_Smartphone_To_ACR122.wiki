@@ -2,7 +2,10 @@
 
 = Introduction =
 
-Add your content here.
+
+In this wiki page, the test environment will be presented together with the logical steps necessary to test the SNEP (Simple NDEF Push Protocol) library. In particular this wiki will show the communication flow from smartphone (Android LG Optimus L5- E610) to reader (Touchatag NFC reader).
+
+See which SampleProjects are included in the source code..
 
 
 = Details =
