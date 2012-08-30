@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary SNEP protocol implementation: communication flow from Smartphone to ACR-122.
 
 = Introduction =
 
@@ -6,4 +6,3 @@ Add your content here.
 
 
 = Details =
-
