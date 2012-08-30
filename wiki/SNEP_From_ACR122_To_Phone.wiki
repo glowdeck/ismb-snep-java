@@ -53,6 +53,9 @@ http://ismb-snep-java.googlecode.com/files/AndroidStartingSnepApp_site.jpg
 
 *2) Execute the java code (SenderToPhone)* contained in the archive 
 
+http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-LIBRARY%20FromReaderToPhone_source.zip
+
+
 ... then wait until in the console appears the following messages:
 
 {{{
