@@ -38,3 +38,11 @@ source: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Cl
 or
 
 installer: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Client_APK.zip
+
+
+- Download the library source code available in the download section.
+
+source:http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-LIBRARY_PhoneToReader_Java_Client_SRC.zip
+
+
+*Steps*
