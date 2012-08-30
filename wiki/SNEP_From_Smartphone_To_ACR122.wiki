@@ -145,3 +145,18 @@ Finished
 [DEBUG] {sending   [8 bytes]} 0xFF 0x00 0x00 0x00 0x03 0xD4 0x52 0x01 
 [DEBUG] {receiving [5 bytes]} 0xD5 0x53 0x00 0x90 0x00 
 }}}
+
+
+*7) That's all* 
+
+http://ismb-snep-java.googlecode.com/files/50px-Done.png
+
+ 
+With this example you have used the ISMB-SNEP-LIBRARY to receive a message sent from an Android device, obviously modifying the android source code, you'll have the chance to send different messages. 
+
+
+*Please consider this as the first release of the application as a Proof of Concept and not as a fully defined and bug free application. Obviously, it's not yet STABLE.*
+
+
+
+If you're interested in contributing to build a stable library, please contact me at *lotito@ismb.it*.
