@@ -9,3 +9,8 @@ See which SampleProjects are included in the source code..
 
 
 = Details =
+
+
+*Test Environment*
+
+http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroidSite_2.jpg
