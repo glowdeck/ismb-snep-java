@@ -23,7 +23,7 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironmentAndroid_site.jpg
 available at http://www.acs.com.hk/index.php?pid=product&id=ACR122U
 
 
--if you're using Eclipse, modify settings in order to use javax.smartcard.*
+-if you're using Eclipse, modify settings in order to use javax.smartcard
 as shown in the page http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
 
 
