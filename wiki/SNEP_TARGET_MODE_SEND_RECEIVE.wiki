@@ -33,7 +33,7 @@ http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
 source: 
 
 
-`*`
+`<hr>`
 
 ==Android side - Requirements to send data from Smartphone to PC ==
 
@@ -45,7 +45,7 @@ or
 
 installer: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Client_APK.zip
 
-`*`
+`<hr>`
 
 ==Android side Requirements to send data from PC to Smartphone ==
  
