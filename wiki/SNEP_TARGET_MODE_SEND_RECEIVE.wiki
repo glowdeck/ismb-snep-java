@@ -8,7 +8,49 @@ The solution I've found (and implemented) it's the usage of a Target approach bo
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Test Environment*
+
+http://ismb-snep-java.googlecode.com/files/TestEnvironment-2013.png
+
+
+*[PC Side] General Requirements*
+
+- Java and an IDE (e.g. Eclipse)
+
+
+- ACS ACR122U PC/SC Driver,
+available at http://www.acs.com.hk/index.php?pid=product&id=ACR122U
+
+
+- if you're using Eclipse, modify settings in order to use javax.smartcard
+as shown in the page http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
+
+
+-Download the library source code available in the download section
+source: 
+
+
+
+
+*[Android side] Requirements to send data from Smartphone to PC*
+
+if you want to send data from PC to smartphone, you should download and install the Android app available in the download section.
+
+source: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Client_SRC.zip
+
+or
+
+installer: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android_Client_APK.zip
+
+
+
+*[Android side] Requirements to send data from PC to Smartphone*
+ 
+- Download and install the Android app available in the download section.
+
+source: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhoneSource.zip
+
+or
+
+installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
+----
