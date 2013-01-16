@@ -2,7 +2,8 @@
 
 = Introduction =
 
-Add your content here.
+In this wiki page, the test environment will be presented together with the logical steps necessary to test the SNEP (Simple NDEF Push Protocol) library. In particular this wiki shows the updated code useful to be used  with the Samsung S3 and other Android devices with OS version 4.2. 
+The solution I've found (and implemented) it's the usage of a Target approach both to send data to the smartphone and to receive data from the smartphone.
 
 
 = Details =
