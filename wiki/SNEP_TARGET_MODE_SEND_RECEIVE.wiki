@@ -68,7 +68,7 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 
 == Steps to receive data ==
 
-===1) Execute the app installed on the Android device "SnepPusher" ===
+===1) Execute the 'SnepPusher' app installed on the Android device ===
 
 ... then wait until you'll see the following message:
 
