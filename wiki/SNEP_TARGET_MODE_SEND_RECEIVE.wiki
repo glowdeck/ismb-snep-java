@@ -31,7 +31,8 @@ http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
 
 
 -Download the library source code available in the download section
-source: 
+
+source: http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-Library.zip
 
 <br />
 
@@ -74,6 +75,7 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 http://ismb-snep-java.googlecode.com/files/Android_Starting_SenderApp.jpg
 
 ===2) Execute the java code "NFCReader", contained in the archive ===
+http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-Library.zip
 
 ... then wait until the following messages appear in the console:
 
@@ -226,6 +228,8 @@ http://ismb-snep-java.googlecode.com/files/AndroidStartingSnepApp_site.jpg
 
 
 === 2) Execute the java code "SenderToPhone" contained in the archive ===
+
+http://ismb-snep-java.googlecode.com/files/ISMB-SNEP-Library.zip
 
 .. then wait until you'll see the following message:
 
