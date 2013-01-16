@@ -64,3 +64,6 @@ or
 
 installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 ----
+
+== Steps to receive data ==
+== Steps to send data ==
