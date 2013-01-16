@@ -13,7 +13,7 @@ The solution I've found (and implemented) it's the usage of a Target approach bo
 http://ismb-snep-java.googlecode.com/files/TestEnvironment-2013.png
 
 
-*[PC Side] General Requirements*
+*PC Side - General Requirements*
 
 - Java and an IDE (e.g. Eclipse)
 
@@ -32,7 +32,7 @@ source:
 
 
 
-*[Android side] Requirements to send data from Smartphone to PC*
+*Android side - Requirements to send data from Smartphone to PC*
 
 if you want to send data from PC to smartphone, you should download and install the Android app available in the download section.
 
