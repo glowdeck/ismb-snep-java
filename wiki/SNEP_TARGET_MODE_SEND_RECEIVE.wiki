@@ -12,6 +12,7 @@ The solution I've found (and implemented) it's the usage of a Target approach bo
 
 http://ismb-snep-java.googlecode.com/files/TestEnvironment-2013.png
 
+<br />
 
 == PC Side - General Requirements ==
 
@@ -32,10 +33,7 @@ http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
 -Download the library source code available in the download section
 source: 
 
-{{{
-
-
-}}}
+<br />
 
 
 ==Android side - Requirements to send data from Smartphone to PC ==
@@ -50,9 +48,7 @@ installer: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android
 
 
 
-{{{
-
-}}}
+<br />
 
 
 ==Android side Requirements to send data from PC to Smartphone ==
