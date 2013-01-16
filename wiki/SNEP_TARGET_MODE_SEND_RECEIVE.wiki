@@ -257,7 +257,7 @@ http://ismb-snep-java.googlecode.com/files/PuttingAndroid_site.jpg
 
 
 ===5) As soon as the phone will be on the NFC reader, the J2SE application will go on and the message will be sent to the Android device. ===
-N.B. Do not touch anything on the Android device and keep your fingers crossed
+*Note* Do not touch anything on the Android device and keep your fingers crossed
 http://ismb-snep-java.googlecode.com/files/Crossed_Fingers_50px.jpg
 
 ===6) On the J2SE console the following messages will appear ===
@@ -299,4 +299,17 @@ http://ismb-snep-java.googlecode.com/files/DataReceivedAndroid_site.jpg
 
 http://ismb-snep-java.googlecode.com/files/50px-Done.png
 
-With this example you have used the ISMB-SNEP-LIBRARY to send a message to an Android device, obviously modifying the library source code, you'll have the chance to send different messages.
+With this example you have used the ISMB-SNEP-LIBRARY to send the following message to an Android device:
+
+_Beam received from ISMB SNEP LIBRARY:_
+
+_good luck!_
+
+
+*Note* Obviously, modifying the library source code it is possible to send different NDEF messages both in terms of type and application.
+
+----
+Please consider these examples as Proof of Concepts and not as fully defined and bug free applications. 
+
+----
+*If you're interested in contributing to build a stable library, please contact me at lotito@ismb.it *
