@@ -36,7 +36,7 @@ source:
 <br />
 
 
-==Android side - Requirements to receive data (communication flow: Smartphone -> PC)==
+==Android side - Requirements to receive data (flow: Smartphone -> PC)==
 
 if you need to receive data from a Smartphone on your PC, you should download and install the Android app available in the download section.
 
@@ -51,7 +51,7 @@ installer: http://ismb-snep-java.googlecode.com/files/SNEP_PhoneToReader_Android
 <br />
 
 
-==Android side - Requirements to send data (communication flow: PC -> Smartphone) ==
+==Android side - Requirements to send data (flow: PC -> Smartphone) ==
 
 if you need to send data from your PC to a smartphone, you should download and install the Android app available in the download section.
 
