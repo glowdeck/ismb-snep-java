@@ -67,12 +67,36 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 
 == Steps to receive data ==
 
-===1) Execute the app installed on the Android device (SnepPusher) ===
+===1) Execute the app installed on the Android device ( SnepPusher ) ===
 
 ... then wait until you'll see the following message:
 
 http://ismb-snep-java.googlecode.com/files/Android_Starting_SenderApp.jpg
 
-===2) Execute the java code (NFCReader)* contained in the archive ===
+===2) Execute the java code ( NFCReader ) contained in the archive ===
+
+... then wait until the following messages appear in the console:
+
+{{{
+Get factory
+Get terminals
+Terminal name: ACS ACR122U 00 00
+Available Commands: receive, send and quit
+}}}
+
+===3) Write receive and wait unit the following messages appear in the console ===
+
+{{{
+Get factory
+Get terminals
+Terminal name: ACS ACR122U 00 00
+Available Commands: receive, send and quit
+receive
+card: PC/SC card in ACS ACR122U 00 00, protocol T=0, state OK
+Protocol:T=0
+Called new Procedure to receive data .. TARGET MODE
+[DEBUG] {sending   [56 bytes]} 0xFF 0x00 0x00 0x00 0x33 0xD4 0x8C 0x02 0x00 0x00 0x00 0x00 0x00 0x40 0x01 0xFE 0x0F 0xBB 0xBA 0xA6 0xC9 0x89 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x01 0xFE 0x0F 0xBB 0xBA 0xA6 0xC9 0x89 0x00 0x00 0x0F 0x46 0x66 0x6D 0x01 0x01 0x10 0x03 0x02 0x00 0x01 0x04 0x01 0x96 
+
+}}}
 ----
 == Steps to send data ==
