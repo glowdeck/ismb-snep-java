@@ -67,13 +67,13 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 
 == Steps to receive data ==
 
-===1) Execute the app installed on the Android device (SnepPusher) ===
+===1) Execute the app installed on the Android device "SnepPusher" ===
 
 ... then wait until you'll see the following message:
 
 http://ismb-snep-java.googlecode.com/files/Android_Starting_SenderApp.jpg
 
-===2) Execute the java code ( NFCReader ) contained in the archive ===
+===2) Execute the java code "NFCReader", contained in the archive ===
 
 ... then wait until the following messages appear in the console:
 
@@ -84,7 +84,7 @@ Terminal name: ACS ACR122U 00 00
 Available Commands: receive, send and quit
 }}}
 
-===3) Write receive and wait unit the following messages appear in the console ===
+===3) Write "receive" and wait unit the following messages appear in the console ===
 
 {{{
 Get factory
@@ -217,10 +217,21 @@ With this example you have used the ISMB-SNEP-LIBRARY to receive a message sent 
 ----
 == Steps to send data ==
 
-===1) Execute the app installed on the Android device (ISMB-SNEP) ===
+===1) Execute the app installed on the Android device "ISMB-SNEP" ===
 
 ... then wait until you'll see the following message:
 
 http://ismb-snep-java.googlecode.com/files/AndroidStartingSnepApp_site.jpg
 
-=== 2) Execute the java code (SenderToPhone)* contained in the archive ===
+
+
+=== 2) Execute the java code "SenderToPhone" contained in the archive ===
+
+.. then wait until you'll see the following message:
+
+{{{
+Get factory
+Get terminals
+Terminal name: ACS ACR122U 00 00
+Available Commands: receive, send and quit
+}}}
