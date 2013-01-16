@@ -12,7 +12,7 @@ The solution I've found (and implemented) it's the usage of a Target approach bo
 
 http://ismb-snep-java.googlecode.com/files/TestEnvironment-2013.png
 
-<br />
+----
 
 == PC Side - General Requirements ==
 
@@ -66,4 +66,5 @@ installer: http://ismb-snep-java.googlecode.com/files/SnepReaderToPhone.apk.zip
 ----
 
 == Steps to receive data ==
+----
 == Steps to send data ==
