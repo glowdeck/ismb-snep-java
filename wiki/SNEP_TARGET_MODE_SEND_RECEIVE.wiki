@@ -18,12 +18,15 @@ http://ismb-snep-java.googlecode.com/files/TestEnvironment-2013.png
 - Java and an IDE (e.g. Eclipse)
 
 
-- ACS ACR122U PC/SC Driver,
-available at http://www.acs.com.hk/index.php?pid=product&id=ACR122U
+- ACS ACR122U PC/SC Driver, available at 
+
+http://www.acs.com.hk/index.php?pid=product&id=ACR122U
 
 
 - if you're using Eclipse, modify settings in order to use javax.smartcard
-as shown in the page http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
+as shown in the page 
+
+http://code.google.com/p/ismb-npp-java/wiki/EclipseSettings4javax
 
 
 -Download the library source code available in the download section
